@@ -1,0 +1,29 @@
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\Labo 04.exe
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\Labo 04.deps.json
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\Labo 04.runtimeconfig.json
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\Labo 04.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\Labo 04.pdb
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\FSharp.Core.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\cs\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\de\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\es\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\fr\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\it\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\ja\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\ko\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\pl\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\ru\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\tr\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\bin\Debug\net9.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\Labo 04.fsproj.AssemblyReference.cache
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\Labo 04.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\Labo 04.AssemblyInfo.fs
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\Labo 04.fsproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\Labo 04.fsproj.Up2Date
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\Labo 04.dll
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\refint\Labo 04.dll
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\Labo 04.pdb
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\Labo 04.genruntimeconfig.cache
+C:\Users\peter\source\repos\Labo 04\obj\Debug\net9.0\ref\Labo 04.dll
